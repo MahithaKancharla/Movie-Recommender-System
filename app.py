@@ -34,7 +34,7 @@ def recommend(movie):
 st.title('Movie Recommender System')
 
 selected_movie_name = st.selectbox(
-'How would you like to be contacted?',
+'Enter the name of a movie to get a list of the 5 most similar movies to it',
 movies['title'].values
 )
 
