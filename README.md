@@ -45,6 +45,8 @@
 
 - 5 most similar movies to the 'Superman'
 
+![superman](https://github.com/MahithaKancharla/Movie-Recommender-System/assets/98204725/9bbfaf02-8b73-4564-a627-afc58d216cce)
+
 - 5 most similar movies to the 'The Avengers'
 
 ![notspam_sample](https://github.com/MahithaKancharla/SMS-Spam-Classifier/assets/98204725/9eca7697-b262-4777-801c-e06156579db9)
