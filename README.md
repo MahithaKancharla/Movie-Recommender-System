@@ -49,4 +49,4 @@
 
 - 5 most similar movies to the 'The Avengers'
 
-![notspam_sample](https://github.com/MahithaKancharla/SMS-Spam-Classifier/assets/98204725/9eca7697-b262-4777-801c-e06156579db9)
+![The_Avengers](https://github.com/MahithaKancharla/Movie-Recommender-System/assets/98204725/fe0be5ef-c1de-40d7-805c-87f6f30cc9aa)
