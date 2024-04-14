@@ -39,9 +39,11 @@
 
 ## Sample input and output images:  
 
-- 5 most similar movies to the 'Superman'
+- Enter the name of any movie from the list of 4806 available movies
 
-![spam_sample](https://github.com/MahithaKancharla/SMS-Spam-Classifier/assets/98204725/21554de5-3af1-4e5d-91d2-a6469737ed76)
+![sample](https://github.com/MahithaKancharla/Movie-Recommender-System/assets/98204725/d74b8f74-ab5e-4650-9ca6-75d6f61736f4)
+
+- 5 most similar movies to the 'Superman'
 
 - 5 most similar movies to the 'The Avengers'
 
